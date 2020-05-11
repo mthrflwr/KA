@@ -1,4 +1,3 @@
-<script>
     "use strict";
     document.addEventListener('DOMContentLoaded', function () {
         if (window.hideYTActivated) return;
@@ -39,4 +38,3 @@
         };
         window.hideYTActivated = true;
     });
-</script>
